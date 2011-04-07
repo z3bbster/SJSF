@@ -73,3 +73,4 @@ CHANGELOG
 --------------------------------------------------------------------------------------------------------------
 V1.00 - Composed the texture pack parts together for Minecraft 1.4_01. Added a custom radiant purple Mohjang
 logo and pack.png.
+V1.01 - Changed armor graphics back to orginal JS. Due to glitch with HD 64*64 armor graphics of Misa.

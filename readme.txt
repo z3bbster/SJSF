@@ -17,7 +17,7 @@ KKKXXXXXXXXXXXNNNNNNNNXXXXXXXXKXKKKKKXXXXXNNNNNNNNNNNXNNNXXXXKKXXXXXXNNNNNNNNWWN
 ABOUT
 --------------------------------------------------------------------------------------------------------------
 Name: SJSF - SuperJohnSmithFan TexturePack
-Version: 1.00 
+Version: 1.01 
 Creator: z3bbster
 Website: https://github.com/z3bbster/SJSF
 Minecraft: 1.4_01 Beta
